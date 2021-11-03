@@ -4,5 +4,5 @@ RUN sudo apt-get update -y && sudo apt-get upgrade -y && sudo apt-get install -y
 
 USER gitpod
 
-RUN pip install poetry && poetry install
+RUN pip install eth-brownie==1.17.0
 RUN npm install -g hardhat
