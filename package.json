@@ -1,0 +1,23 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "Please go to moodle to download the corresponding lab sheet.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "hardhat": "^2.6.7"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apogiatzis/comp1830-lab5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apogiatzis/comp1830-lab5/issues"
+  },
+  "homepage": "https://github.com/apogiatzis/comp1830-lab5#readme"
+}
